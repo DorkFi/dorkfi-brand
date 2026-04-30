@@ -72,7 +72,9 @@ Gold whale on a stone coin. Inscription: **CDXX-LXIX** (Roman numerals for 420,0
 
 ### WAD Token
 
-> WAD logo asset coming soon — submit to [dorkfi-brand](https://github.com/DorkFi/dorkfi-brand) when available.
+| Asset | Preview | Usage |
+|-------|---------|-------|
+| WAD coin (200×200) | ![WAD token](https://raw.githubusercontent.com/DorkFi/dorkfi-brand/main/token-WAD-200x200.png) | CMC, CoinGecko, exchange submissions, marketing |
 
 WAD (Whale Asset Dollar) is DorkFi's overcollateralized stablecoin. It is minted exclusively through the protocol's A-Market by borrowing against supplied collateral.
 
