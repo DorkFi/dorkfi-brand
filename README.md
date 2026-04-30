@@ -15,9 +15,10 @@
 
 | Asset | Preview | Usage |
 |-------|---------|-------|
-| dork.fi — white background | ![dork.fi logo on white](brand-assets/logo-dorkfi-white-bg.jpg) | Light backgrounds, print, docs |
-| dork.fi — dark background | ![dork.fi logo on dark](brand-assets/logo-dorkfi-dark-bg.jpg) | App UI, dark mode, social profiles |
-| Dork Labs — white background | ![Dork Labs logo](brand-assets/logo-dorklabs-white-bg.jpg) | Corporate/legal contexts, grants, press |
+| dork.fi — white background | ![dork.fi logo on white](https://raw.githubusercontent.com/DorkFi/dorkfi-brand/main/logo-dorkfi-white-bg.jpg) | Light backgrounds, print, docs |
+| dork.fi — dark background | ![dork.fi logo on dark](https://raw.githubusercontent.com/DorkFi/dorkfi-brand/main/logo-dorkfi-dark-bg.jpg) | App UI, dark mode, social profiles |
+| Dork Labs — white background | ![Dork Labs logo](https://raw.githubusercontent.com/DorkFi/dorkfi-brand/main/logo-dorklabs-white-bg.jpg) | Corporate/legal contexts, grants, press |
+| DorkFi icon (200×200) | ![DorkFi icon](https://raw.githubusercontent.com/DorkFi/dorkfi-brand/main/logo-dorkfi-icon-200x200.png) | Favicons, app icons, exchange listings |
 
 **Notes:**
 - Primary logo color: **Whale Gold** `#A07C10` (as rendered)
@@ -26,7 +27,7 @@
 
 ### Brand Background
 
-![DorkFi dark landscape background](brand-assets/background-dark-landscape.jpg)
+![DorkFi dark landscape background](https://raw.githubusercontent.com/DorkFi/dorkfi-brand/main/background-dark-landscape.jpg)
 
 Dark rocky/ocean landscape — used as a scene background for NFTs, social cards, and hero imagery. Palette: deep navy `#1A2D4A`, slate grey `#3A4A5A`, off-white `#C8CDD4`.
 
@@ -36,13 +37,13 @@ Dark rocky/ocean landscape — used as a scene background for NFTs, social cards
 
 ### Lil Chubs (NFT Collection / Intern Mascot)
 
-![Lil Chubs mascot](brand-assets/mascot-lil-chubs.jpg)
+![Lil Chubs mascot](https://raw.githubusercontent.com/DorkFi/dorkfi-brand/main/mascot-lil-chubs.jpg)
 
 The chubby blue whale — DorkFi's unofficial mascot and NFT collection character. Carries a book, wears glasses, surrounded by gold coins. Friendly, earnest, slightly overwhelmed. Used for community content, the DorkFi Intern Discord bot, and @DorkFi_Intern persona on X.
 
 ### Gold Whale
 
-![Gold whale](brand-assets/mascot-gold-whale.jpg)
+![Gold whale](https://raw.githubusercontent.com/DorkFi/dorkfi-brand/main/mascot-gold-whale.jpg)
 
 The gold humpback whale — represents UNIT holders, governance power, and the "whale" archetype in DeFi. Used for premium content, UNIT-related materials, and brand hero imagery.
 
@@ -52,11 +53,42 @@ The gold humpback whale — represents UNIT holders, governance power, and the "
 
 ### UNIT Token
 
-![UNIT token coin](brand-assets/token-unit-coin.jpg)
+| Asset | Preview | Usage |
+|-------|---------|-------|
+| UNIT coin (official, 256×256) | ![UNIT token coin](https://raw.githubusercontent.com/DorkFi/dorkfi-brand/main/token-unit-coin-official.png) | Token listings, governance communications, marketing |
+| UNIT coin (200×200) | ![UNIT token coin 200x200](https://raw.githubusercontent.com/DorkFi/dorkfi-brand/main/token-unit-coin-200x200.png) | CMC, CoinGecko, exchange submissions |
 
-Gold whale on a stone coin. Inscription: **CDXX-LXIX** (Roman numerals for 420,069 — the fixed supply). Used for UNIT governance communications, token listings, and marketing materials.
+Gold whale on a stone coin. Inscription: **CDXX-LXIX** (Roman numerals for 420,069 — the fixed supply).
 
+**Token details:**
+- **Name:** UNIT
+- **Symbol:** UNIT
+- **Supply:** 420,069 (fixed, non-inflationary)
+- **Algorand ASA:** `3121954282`
+- **Voi ARC-200:** `420069`
+- **Decimals:** 8
 
+---
+
+### WAD Token
+
+> WAD logo asset coming soon — submit to [dorkfi-brand](https://github.com/DorkFi/dorkfi-brand) when available.
+
+WAD (Whale Asset Dollar) is DorkFi's overcollateralized stablecoin. It is minted exclusively through the protocol's A-Market by borrowing against supplied collateral.
+
+**Token details:**
+- **Name:** Whale Asset Dollar
+- **Symbol:** WAD
+- **Peg:** USD ($1.00)
+- **Type:** Overcollateralized stablecoin (not algorithmic)
+- **Algorand ASA:** `3334160924`
+- **Voi ARC-200:** `47138068`
+- **Decimals:** 6
+
+**Usage notes:**
+- Do not frame WAD as a yield product or investment
+- Emphasize utility: borrowing, liquidity, and on-chain stability
+- WAD is minted only through collateralized borrowing — there is no pre-mint or reserve
 
 ---
 
@@ -166,13 +198,14 @@ box-shadow: 0 25px 50px rgba(6, 24, 56, 0.2), 0 1px 0px rgba(255, 255, 255, 0.9)
 - No exclamation points in formal contexts.
 - Audience: crypto-native traders, DeFi power users, DAO treasuries.
 - Avoid: yield framing for WAD, investment language, overpromising.
+- Use **"supply"** not "deposit" in all product and marketing copy.
 
 ### Token Naming
 | Token | Full Name | Notes |
 |-------|-----------|-------|
-| WAD | Whale Asset Dollar | Overcollateralized stablecoin. Do not frame as yield. |
+| WAD | Whale Asset Dollar | Overcollateralized stablecoin. Do not frame as yield or investment. |
 | UNIT | UNIT | Governance token. Fixed supply: 420,069. |
-| nTokens | nTokens | Receipt tokens for deposits. Accrue interest automatically. |
+| nTokens | nTokens | Receipt tokens for supplied assets. Accrue interest automatically. |
 
 ---
 
@@ -203,7 +236,7 @@ box-shadow: 0 25px 50px rgba(6, 24, 56, 0.2), 0 1px 0px rgba(255, 255, 255, 0.9)
 | Platform | Handle |
 |----------|--------|
 | X (Twitter) | [@dork_fi](https://x.com/dork_fi) |
-| Discord | discord.gg/6KSrmWJK3E |
+| Discord | discord.gg/HZzvGGmcNB |
 | Medium | medium.com/@dorkfi |
 | Docs | docs.dork.fi |
 | App | dork.fi |
