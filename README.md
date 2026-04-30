@@ -241,7 +241,7 @@ box-shadow: 0 25px 50px rgba(6, 24, 56, 0.2), 0 1px 0px rgba(255, 255, 255, 0.9)
 | Discord | discord.gg/HZzvGGmcNB |
 | Medium | medium.com/@dorkfi |
 | Docs | docs.dork.fi |
-| App | dork.fi |
+| App | [app.dork.fi](https://app.dork.fi) |
 
 ---
 
