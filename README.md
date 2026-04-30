@@ -7,7 +7,7 @@
 ## Logo & Identity
 
 **Name:** DorkFi  
-**Tagline:** Borrow. Lend. Dork Out.  
+**Tagline:** Dive into the depths of DeFi.  
 **Domain:** dork.fi  
 **Ecosystem:** Voi Network + Algorand (AVM)  
 
