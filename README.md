@@ -85,8 +85,8 @@ Chubs in office setting — used for GM posts, community greetings, and social c
 
 | Asset | Preview | Usage |
 |-------|---------|-------|
-| UNIT coin (official, 256×256) | ![UNIT token coin](https://raw.githubusercontent.com/DorkFi/dorkfi-brand/main/token-unit-coin-official.png) | Token listings, governance communications, marketing |
-| UNIT coin (200×200) | ![UNIT token coin 200x200](https://raw.githubusercontent.com/DorkFi/dorkfi-brand/main/token-unit-coin-200x200.png) | CMC, CoinGecko, exchange submissions |
+| UNIT coin (official, 256×256) | ![UNIT token coin](https://raw.githubusercontent.com/DorkFi/dorkfi-brand/main/Token_UNIT_Offical_256x256.png) | Token listings, governance communications, marketing |
+| UNIT coin (200×200) | ![UNIT token coin 200x200](https://raw.githubusercontent.com/DorkFi/dorkfi-brand/main/Token_UNIT_200x200.png) | CMC, CoinGecko, exchange submissions |
 
 Gold whale on a stone coin. Inscription: **CDXX-LXIX** (Roman numerals for 420,069 — the fixed supply).
 
@@ -104,7 +104,8 @@ Gold whale on a stone coin. Inscription: **CDXX-LXIX** (Roman numerals for 420,0
 
 | Asset | Preview | Usage |
 |-------|---------|-------|
-| WAD coin (200×200) | ![WAD token](https://raw.githubusercontent.com/DorkFi/dorkfi-brand/main/token-WAD-200x200.png) | CMC, CoinGecko, exchange submissions, marketing |
+| WAD coin (256×256) | ![WAD token 256x256](https://raw.githubusercontent.com/DorkFi/dorkfi-brand/main/Token_WAD_256x256.png) | Token listings, governance communications, marketing |
+| WAD coin (200×200) | ![WAD token 200x200](https://raw.githubusercontent.com/DorkFi/dorkfi-brand/main/Token_WAD_200x200.png) | CMC, CoinGecko, exchange submissions, marketing |
 
 WAD (Whale Asset Dollar) is DorkFi's overcollateralized stablecoin. It is minted exclusively through the protocol's A-Market by borrowing against supplied collateral.
 
