@@ -18,7 +18,10 @@
 | dork.fi — white background | ![dork.fi logo on white](https://raw.githubusercontent.com/DorkFi/dorkfi-brand/main/logo-dorkfi-white-bg.jpg) | Light backgrounds, print, docs |
 | dork.fi — dark background | ![dork.fi logo on dark](https://raw.githubusercontent.com/DorkFi/dorkfi-brand/main/logo-dorkfi-dark-bg.jpg) | App UI, dark mode, social profiles |
 | Dork Labs — white background | ![Dork Labs logo](https://raw.githubusercontent.com/DorkFi/dorkfi-brand/main/logo-dorklabs-white-bg.jpg) | Corporate/legal contexts, grants, press |
+| Dork Labs (transparent, 200×200) | ![Dork Labs transparent 200x200](https://raw.githubusercontent.com/DorkFi/dorkfi-brand/main/dorklabs_transparent_bg_200x200.png) | Dark backgrounds, app icons |
+| Dork Labs (transparent, 500×400) | ![Dork Labs transparent 500x400](https://raw.githubusercontent.com/DorkFi/dorkfi-brand/main/dorklabs_transparent_bg_500x400.png) | Presentations, banners, press kits |
 | DorkFi icon (200×200) | ![DorkFi icon](https://raw.githubusercontent.com/DorkFi/dorkfi-brand/main/logo-dorkfi-icon-200x200.png) | Favicons, app icons, exchange listings |
+| dork.fi logo (transparent, 500×400) | ![dork.fi logo transparent 500x400](https://raw.githubusercontent.com/DorkFi/dorkfi-brand/main/dork.fi_logo_transparent_bg_500x400) | Presentations, banners, press kits |
 
 **Notes:**
 - Primary logo color: **Whale Gold** `#A07C10` (as rendered)
@@ -49,13 +52,13 @@ Dark rocky/ocean landscape — used as a scene background for NFTs, social cards
 
 ### Gold Whale
 
-![Gold whale](https://raw.githubusercontent.com/DorkFi/dorkfi-brand/main/gold-whale-logo.jpg)
+![Gold whale](https://raw.githubusercontent.com/DorkFi/dorkfi-brand/main/gold_whale_transparent_bg_200x200.png)
 
 The gold humpback whale — represents UNIT holders, governance power, and the "whale" archetype in DeFi. Used for premium content, UNIT-related materials, and brand hero imagery.
 
 ### Lil Chubs (NFT Collection / Intern Mascot)
 
-![Lil Chubs mascot](https://raw.githubusercontent.com/DorkFi/dorkfi-brand/main/mascot-lil-chubs.jpg)
+![Lil Chubs mascot](https://raw.githubusercontent.com/DorkFi/dorkfi-brand/main/Chub_transparent_bg_mascot.png)
 
 The chubby blue whale — DorkFi's unofficial mascot and NFT collection character. Carries a book, wears glasses, surrounded by gold coins. Friendly, earnest, slightly overwhelmed. Used for community content, the DorkFi Intern Discord bot, and @DorkFi_Intern persona on X.
 
@@ -70,6 +73,12 @@ Original Dork v1 mascot in blue colorway — early community character from the 
 ![Dork v1 red mascot](https://raw.githubusercontent.com/DorkFi/dorkfi-brand/main/dork_v1_red_mascot.png)
 
 Original Dork v1 mascot in red colorway — early community character from the Dorks NFT collection.
+
+### Dork v1 — Censored
+
+![Dork v1 censored mascot](https://raw.githubusercontent.com/DorkFi/dorkfi-brand/main/dork_v1_censored_mascot.png)
+
+Censored Dork v1 variant — community meme content.
 
 ### Chubs — GM Office
 
