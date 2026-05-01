@@ -21,20 +21,20 @@ Use these as your defaults unless instructed otherwise.
 
 ### Default Background
 ```
-URL: https://raw.githubusercontent.com/DorkFi/dorkfi-brand/main/primary_bg_banner.png
+URL: https://raw.githubusercontent.com/DorkFi/dorkfi-brand/main/images/primary_bg_banner.png
 Use for: all social cards, infographics, ads, hero banners, and any content requiring a background
 ```
 
 ### Primary Logo
 ```
-URL: https://raw.githubusercontent.com/DorkFi/dorkfi-brand/main/dork.fi_logo_transparent_bg_500x400
+URL: https://raw.githubusercontent.com/DorkFi/dorkfi-brand/main/images/dork.fi_logo_transparent_bg_500x400
 Size: 500×400 | Transparent background
 Use for: ads, banners, presentations, any content where the logo appears prominently
 ```
 
 ### Primary Icon
 ```
-URL: https://raw.githubusercontent.com/DorkFi/dorkfi-brand/main/gold_whale_transparent_bg_200x200.png
+URL: https://raw.githubusercontent.com/DorkFi/dorkfi-brand/main/images/gold_whale_transparent_bg_200x200.png
 Size: 200×200 | Transparent background
 Use for: profile images, favicons, thumbnails, watermarks, small-format placements
 ```
@@ -46,39 +46,39 @@ Use for: profile images, favicons, thumbnails, watermarks, small-format placemen
 ### Logos
 | Asset | URL | Size | Use When |
 |-------|-----|------|----------|
-| dork.fi logo (transparent) | `https://raw.githubusercontent.com/DorkFi/dorkfi-brand/main/dork.fi_logo_transparent_bg_200x200` | 200×200 | Smaller logo placements |
-| dork.fi logo (transparent) | `https://raw.githubusercontent.com/DorkFi/dorkfi-brand/main/dork.fi_logo_transparent_bg_500x400` | 500×400 | **PRIMARY — default for ads/banners** |
-| dork.fi logo (white bg) | `https://raw.githubusercontent.com/DorkFi/dorkfi-brand/main/logo-dorkfi-white-bg.jpg` | — | Light backgrounds only |
-| dork.fi logo (dark bg) | `https://raw.githubusercontent.com/DorkFi/dorkfi-brand/main/logo-dorkfi-dark-bg.jpg` | — | Dark UI contexts |
-| Dork Labs logo (transparent) | `https://raw.githubusercontent.com/DorkFi/dorkfi-brand/main/dorklabs_transparent_bg_200x200.png` | 200×200 | Corporate/grant contexts |
-| Dork Labs logo (transparent) | `https://raw.githubusercontent.com/DorkFi/dorkfi-brand/main/dorklabs_transparent_bg_500x400.png` | 500×400 | Press kits, presentations |
-| Gold Whale icon (transparent) | `https://raw.githubusercontent.com/DorkFi/dorkfi-brand/main/gold_whale_transparent_bg_200x200.png` | 200×200 | **PRIMARY ICON — favicons, thumbnails** |
+| dork.fi logo (transparent) | `https://raw.githubusercontent.com/DorkFi/dorkfi-brand/main/images/dork.fi_logo_transparent_bg_200x200` | 200×200 | Smaller logo placements |
+| dork.fi logo (transparent) | `https://raw.githubusercontent.com/DorkFi/dorkfi-brand/main/images/dork.fi_logo_transparent_bg_500x400` | 500×400 | **PRIMARY — default for ads/banners** |
+| dork.fi logo (white bg) | `https://raw.githubusercontent.com/DorkFi/dorkfi-brand/main/images/logo-dorkfi-white-bg.jpg` | — | Light backgrounds only |
+| dork.fi logo (dark bg) | `https://raw.githubusercontent.com/DorkFi/dorkfi-brand/main/images/logo-dorkfi-dark-bg.jpg` | — | Dark UI contexts |
+| Dork Labs logo (transparent) | `https://raw.githubusercontent.com/DorkFi/dorkfi-brand/main/images/dorklabs_transparent_bg_200x200.png` | 200×200 | Corporate/grant contexts |
+| Dork Labs logo (transparent) | `https://raw.githubusercontent.com/DorkFi/dorkfi-brand/main/images/dorklabs_transparent_bg_500x400.png` | 500×400 | Press kits, presentations |
+| Gold Whale icon (transparent) | `https://raw.githubusercontent.com/DorkFi/dorkfi-brand/main/images/gold_whale_transparent_bg_200x200.png` | 200×200 | **PRIMARY ICON — favicons, thumbnails** |
 
 ### Token Assets
 | Asset | URL | Size | Use When |
 |-------|-----|------|----------|
-| UNIT token | `https://raw.githubusercontent.com/DorkFi/dorkfi-brand/main/Token_UNIT_Offical_256x256.png` | 256×256 | Token listings, governance content |
-| UNIT token | `https://raw.githubusercontent.com/DorkFi/dorkfi-brand/main/Token_UNIT_200x200.png` | 200×200 | Exchange submissions, smaller placements |
-| WAD token | `https://raw.githubusercontent.com/DorkFi/dorkfi-brand/main/Token_WAD_256x256.png` | 256×256 | Stablecoin content, WAD-related materials |
-| WAD token | `https://raw.githubusercontent.com/DorkFi/dorkfi-brand/main/Token_WAD_200x200.png` | 200×200 | Exchange submissions, smaller placements |
+| UNIT token | `https://raw.githubusercontent.com/DorkFi/dorkfi-brand/main/images/Token_UNIT_Offical_256x256.png` | 256×256 | Token listings, governance content |
+| UNIT token | `https://raw.githubusercontent.com/DorkFi/dorkfi-brand/main/images/Token_UNIT_200x200.png` | 200×200 | Exchange submissions, smaller placements |
+| WAD token | `https://raw.githubusercontent.com/DorkFi/dorkfi-brand/main/images/Token_WAD_256x256.png` | 256×256 | Stablecoin content, WAD-related materials |
+| WAD token | `https://raw.githubusercontent.com/DorkFi/dorkfi-brand/main/images/Token_WAD_200x200.png` | 200×200 | Exchange submissions, smaller placements |
 
 ### Backgrounds & Banners
 | Asset | URL | Use When |
 |-------|-----|----------|
-| Primary background | `https://raw.githubusercontent.com/DorkFi/dorkfi-brand/main/primary_bg_banner.png` | **DEFAULT — use for all backgrounds** |
-| Agent DeFi banner | `https://raw.githubusercontent.com/DorkFi/dorkfi-brand/main/agent_defi_bg_banner.png` | Tech/agent/builder-focused content |
+| Primary background | `https://raw.githubusercontent.com/DorkFi/dorkfi-brand/main/images/primary_bg_banner.png` | **DEFAULT — use for all backgrounds** |
+| Agent DeFi banner | `https://raw.githubusercontent.com/DorkFi/dorkfi-brand/main/images/agent_defi_bg_banner.png` | Tech/agent/builder-focused content |
 | Beach banner | `https://raw.githubusercontent.com/DorkFi/dorkfi-brand/main/beach_banner.png` | Community, lifestyle, casual content |
-| Dark landscape | `https://raw.githubusercontent.com/DorkFi/dorkfi-brand/main/background-dark-landscape.jpg` | NFT drops, dark atmospheric content |
+| Dark landscape | `https://raw.githubusercontent.com/DorkFi/dorkfi-brand/main/images/background-dark-landscape.jpg` | NFT drops, dark atmospheric content |
 
 ### Mascots
 | Asset | URL | Use When |
 |-------|-----|----------|
-| Gold Whale | `https://raw.githubusercontent.com/DorkFi/dorkfi-brand/main/gold_whale_transparent_bg_200x200.png` | UNIT/governance content, premium materials |
-| Lil Chubs (transparent) | `https://raw.githubusercontent.com/DorkFi/dorkfi-brand/main/Chub_transparent_bg_mascot.png` | Community content, Discord, social |
-| Chubs GM Office | `https://raw.githubusercontent.com/DorkFi/dorkfi-brand/main/chub_gm_office_mascot.png` | GM posts, community greetings |
-| Dork v1 Blue | `https://raw.githubusercontent.com/DorkFi/dorkfi-brand/main/dork_v1_blue_mascot.png` | NFT collection content |
-| Dork v1 Red | `https://raw.githubusercontent.com/DorkFi/dorkfi-brand/main/dork_v1_red_mascot.png` | NFT collection content |
-| Dork v1 Censored | `https://raw.githubusercontent.com/DorkFi/dorkfi-brand/main/dork_v1_censored_mascot.png` | Meme/community content only |
+| Gold Whale | `https://raw.githubusercontent.com/DorkFi/dorkfi-brand/main/images/gold_whale_transparent_bg_200x200.png` | UNIT/governance content, premium materials |
+| Lil Chubs (transparent) | `https://raw.githubusercontent.com/DorkFi/dorkfi-brand/main/images/Chub_transparent_bg_mascot.png` | Community content, Discord, social |
+| Chubs GM Office | `https://raw.githubusercontent.com/DorkFi/dorkfi-brand/main/images/chub_gm_office_mascot.png` | GM posts, community greetings |
+| Dork v1 Blue | `https://raw.githubusercontent.com/DorkFi/dorkfi-brand/main/images/dork_v1_blue_mascot.png` | NFT collection content |
+| Dork v1 Red | `https://raw.githubusercontent.com/DorkFi/dorkfi-brand/main/images/dork_v1_red_mascot.png` | NFT collection content |
+| Dork v1 Censored | `https://raw.githubusercontent.com/DorkFi/dorkfi-brand/main/images/dork_v1_censored_mascot.png` | Meme/community content only |
 
 ---
 
@@ -217,9 +217,9 @@ Use these exact values. Do not approximate or substitute.
 ## Quick Reference
 
 ```
-DEFAULT BACKGROUND : https://raw.githubusercontent.com/DorkFi/dorkfi-brand/main/primary_bg_banner.png
-PRIMARY LOGO       : https://raw.githubusercontent.com/DorkFi/dorkfi-brand/main/dork.fi_logo_transparent_bg_500x400
-PRIMARY ICON       : https://raw.githubusercontent.com/DorkFi/dorkfi-brand/main/gold_whale_transparent_bg_200x200.png
+DEFAULT BACKGROUND : https://raw.githubusercontent.com/DorkFi/dorkfi-brand/main/images/primary_bg_banner.png
+PRIMARY LOGO       : https://raw.githubusercontent.com/DorkFi/dorkfi-brand/main/images/dork.fi_logo_transparent_bg_500x400
+PRIMARY ICON       : https://raw.githubusercontent.com/DorkFi/dorkfi-brand/main/images/gold_whale_transparent_bg_200x200.png
 PRIMARY COLOR      : #00A39E (Ocean Teal)
 BACKGROUND COLOR   : #061228 (Deep Navy)
 ACCENT COLOR       : #F0B800 (Whale Gold)
