@@ -59,6 +59,30 @@ The chubby blue whale — DorkFi's unofficial mascot and NFT collection characte
 
 The gold humpback whale — represents UNIT holders, governance power, and the "whale" archetype in DeFi. Used for premium content, UNIT-related materials, and brand hero imagery.
 
+### Gold Whale Logo
+
+![Gold whale logo](https://raw.githubusercontent.com/DorkFi/dorkfi-brand/main/gold-whale-logo.jpg)
+
+Simplified gold whale logo mark — used for icon-sized applications and profile images.
+
+### Dork v1 — Blue
+
+![Dork v1 blue mascot](https://raw.githubusercontent.com/DorkFi/dorkfi-brand/main/dork_v1_blue_mascot.png)
+
+Original Dork v1 mascot in blue colorway — early community character from the Dorks NFT collection.
+
+### Dork v1 — Red
+
+![Dork v1 red mascot](https://raw.githubusercontent.com/DorkFi/dorkfi-brand/main/dork_v1_red_mascot.png)
+
+Original Dork v1 mascot in red colorway — early community character from the Dorks NFT collection.
+
+### Chubs — GM Office
+
+![Chubs GM office mascot](https://raw.githubusercontent.com/DorkFi/dorkfi-brand/main/chub_gm_office_mascot.png)
+
+Chubs in office setting — used for GM posts, community greetings, and social content.
+
 ---
 
 ## Token Assets
