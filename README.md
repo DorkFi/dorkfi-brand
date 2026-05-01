@@ -15,6 +15,7 @@
 
 | Asset | Preview | Usage |
 |-------|---------|-------|
+| dork.fi logo (transparent, 200×200) | ![dork.fi logo transparent 200x200](https://raw.githubusercontent.com/DorkFi/dorkfi-brand/main/dork.fi_logo_transparent_bg_200x200) | App UI, dark backgrounds, social profiles |
 | dork.fi logo (transparent, 500×400) | ![dork.fi logo transparent 500x400](https://raw.githubusercontent.com/DorkFi/dorkfi-brand/main/dork.fi_logo_transparent_bg_500x400) | Presentations, banners, press kits |
 | dork.fi — white background | ![dork.fi logo on white](https://raw.githubusercontent.com/DorkFi/dorkfi-brand/main/logo-dorkfi-white-bg.jpg) | Light backgrounds, print, docs |
 | dork.fi — dark background | ![dork.fi logo on dark](https://raw.githubusercontent.com/DorkFi/dorkfi-brand/main/logo-dorkfi-dark-bg.jpg) | App UI, dark mode, social profiles |
