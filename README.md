@@ -25,9 +25,21 @@
 - Always maintain clear space around the logo equal to the height of the "d"
 - Do not recolor, stretch, or add effects to the logo
 
-### Brand Background
+### Brand Backgrounds & Banners
 
-![DorkFi dark landscape background](https://raw.githubusercontent.com/DorkFi/dorkfi-brand/main/background-dark-landscape.jpg)
+**Primary Background**
+
+![Primary background banner](https://raw.githubusercontent.com/DorkFi/dorkfi-brand/main/primary_bg_banner.png)
+
+The primary brand background — use as the default backdrop for social cards, hero sections, and key marketing materials.
+
+**Additional Banners**
+
+| Asset | Preview |
+|-------|---------|
+| Agent DeFi banner | ![Agent DeFi banner](https://raw.githubusercontent.com/DorkFi/dorkfi-brand/main/agent_defi_bg_banner.png) |
+| Beach banner | ![Beach banner](https://raw.githubusercontent.com/DorkFi/dorkfi-brand/main/beach_banner.png) |
+| Dark landscape | ![DorkFi dark landscape background](https://raw.githubusercontent.com/DorkFi/dorkfi-brand/main/background-dark-landscape.jpg) |
 
 Dark rocky/ocean landscape — used as a scene background for NFTs, social cards, and hero imagery. Palette: deep navy `#1A2D4A`, slate grey `#3A4A5A`, off-white `#C8CDD4`.
 
