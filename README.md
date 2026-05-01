@@ -21,7 +21,7 @@
 | Dork Labs — white background | ![Dork Labs logo](https://raw.githubusercontent.com/DorkFi/dorkfi-brand/main/logo-dorklabs-white-bg.jpg) | Corporate/legal contexts, grants, press |
 | Dork Labs (transparent, 200×200) | ![Dork Labs transparent 200x200](https://raw.githubusercontent.com/DorkFi/dorkfi-brand/main/dorklabs_transparent_bg_200x200.png) | Dark backgrounds, app icons |
 | Dork Labs (transparent, 500×400) | ![Dork Labs transparent 500x400](https://raw.githubusercontent.com/DorkFi/dorkfi-brand/main/dorklabs_transparent_bg_500x400.png) | Presentations, banners, press kits |
-| DorkFi icon (200×200) | ![DorkFi icon](https://raw.githubusercontent.com/DorkFi/dorkfi-brand/main/logo-dorkfi-icon-200x200.png) | Favicons, app icons, exchange listings |
+| DorkFi icon (200×200) | ![DorkFi icon](https://raw.githubusercontent.com/DorkFi/dorkfi-brand/main/gold_whale_transparent_bg_200x200.png) | Favicons, app icons, exchange listings |
 
 **Notes:**
 - Primary logo color: **Whale Gold** `#A07C10` (as rendered)
