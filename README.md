@@ -15,13 +15,13 @@
 
 | Asset | Preview | Usage |
 |-------|---------|-------|
+| dork.fi logo (transparent, 500×400) | ![dork.fi logo transparent 500x400](https://raw.githubusercontent.com/DorkFi/dorkfi-brand/main/dork.fi_logo_transparent_bg_500x400) | Presentations, banners, press kits |
 | dork.fi — white background | ![dork.fi logo on white](https://raw.githubusercontent.com/DorkFi/dorkfi-brand/main/logo-dorkfi-white-bg.jpg) | Light backgrounds, print, docs |
 | dork.fi — dark background | ![dork.fi logo on dark](https://raw.githubusercontent.com/DorkFi/dorkfi-brand/main/logo-dorkfi-dark-bg.jpg) | App UI, dark mode, social profiles |
 | Dork Labs — white background | ![Dork Labs logo](https://raw.githubusercontent.com/DorkFi/dorkfi-brand/main/logo-dorklabs-white-bg.jpg) | Corporate/legal contexts, grants, press |
 | Dork Labs (transparent, 200×200) | ![Dork Labs transparent 200x200](https://raw.githubusercontent.com/DorkFi/dorkfi-brand/main/dorklabs_transparent_bg_200x200.png) | Dark backgrounds, app icons |
 | Dork Labs (transparent, 500×400) | ![Dork Labs transparent 500x400](https://raw.githubusercontent.com/DorkFi/dorkfi-brand/main/dorklabs_transparent_bg_500x400.png) | Presentations, banners, press kits |
 | DorkFi icon (200×200) | ![DorkFi icon](https://raw.githubusercontent.com/DorkFi/dorkfi-brand/main/logo-dorkfi-icon-200x200.png) | Favicons, app icons, exchange listings |
-| dork.fi logo (transparent, 500×400) | ![dork.fi logo transparent 500x400](https://raw.githubusercontent.com/DorkFi/dorkfi-brand/main/dork.fi_logo_transparent_bg_500x400) | Presentations, banners, press kits |
 
 **Notes:**
 - Primary logo color: **Whale Gold** `#A07C10` (as rendered)
