@@ -157,6 +157,8 @@ font-family: 'Poppins', sans-serif;
 
 ## Color Palette
 
+![DorkFi Brand Color Swatches](https://raw.githubusercontent.com/DorkFi/dorkfi-brand/main/images/brand_color_swatches.png)
+
 ### Primary Colors
 
 | Name | Hex | HSL | Usage |
@@ -287,3 +289,14 @@ box-shadow: 0 25px 50px rgba(6, 24, 56, 0.2), 0 1px 0px rgba(255, 255, 255, 0.9)
 ---
 
 *Last updated: April 2026*
+
+---
+
+## Changelog
+
+| Date | Change |
+|------|--------|
+| May 2026 | Added `agent/PROMPTS.md`, `agent/DIMENSIONS.md`, `agent/DO_NOT_USE.md`; added `fonts/` directory with Poppins 400/600/700; added brand color swatch image |
+| May 2026 | Reorganized all images into `images/` folder; updated all README paths |
+| May 2026 | Added WAD token section; fixed Beach Banner image path |
+| April 2026 | Initial brand kit created with logos, mascots, backgrounds, and UNIT/WAD token assets |
